@@ -5,8 +5,8 @@ export const G = 1;
 /**
  * Softening factor.
  */
-export const S = 10;
+export const S = 2;
 /**
  * Simulation speed factor.
  */
-export const D = 0.1;
+export const D = 1;
